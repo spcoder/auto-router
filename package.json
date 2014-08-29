@@ -1,0 +1,25 @@
+{
+  "name": "auto-router",
+  "version": "0.1.0",
+  "description": "Express middleware that handles routing automatically.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spcoder/auto-router.git"
+  },
+  "keywords": [
+    "express",
+    "router",
+    "routing",
+    "controller",
+    "controllers",
+    "action",
+    "actions"
+  ],
+  "author": "Cody Frederick <cody.frederick@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/spcoder/auto-router/issues"
+  },
+  "homepage": "https://github.com/spcoder/auto-router"
+}
